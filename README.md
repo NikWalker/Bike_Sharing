@@ -28,14 +28,14 @@ The above graph shows the hours of the day in which the most bikes are rented. T
 ![durations](Images/checkout_durations.png)
 
 Most users seem to get to there destination within 10 minutes. The mean ride time is around five minutes. Based on gender the ride times seem to be relatively the same. The average ride for males was five minutes, and six minutes for females. For people of an unknown gender, there seemed to be a more even spread of rides ranging from 7 to 27 minutes.  
-#### Tripcounts by Weekday and Hour
+#### Trip Counts by Weekday and Hour
 ![trips weekday/hour](Images/trips_weekday.png)
 
 The “Trips by Weekday per Hour” heatmap shows that bikes were mostly used in the mornings around 8am and the evening from 5pm to 6pm, Monday through Friday. During the week there is a slight lull of bikes being used on Wednesdays. On the weekends however, bike seem to be rented evenly throughout the day between the hours of 10am and 5pm. This seems to be the trend regardless of gender.
 ## Summary
 ### Points of Interest
 
-When examining if Citi Bike would be a good fit in Des Moines, there are a few things to consider. Firstly, the spread of the city should be taken into account. Can riders get to their destionation within ten minutes? Most rides are only 5 minutes in length. From the New York data, Citi Bike does seem to have a good business model with 81% of rides being taken by payed subscribers. Subcribers ride during the work week, to and from work, which seems to follow a nine to five workday. A higher amount of customers without subscriptions ride on the weekends, possibly suggesting they are likely riding for recreation or could be tourists in the city. Reguardless of gender, the average age of bikers are those in there early thirties, which seems to suggest they are of working age for a business job. A 65% majority of bikers are male. Male customers in there early thirties that have a nine to five job seem the make up a big portion of the target audience.
+When examining if Citi Bike would be a good fit in Des Moines, there are a few things to consider. Firstly, the spread of the city should be considered. Can riders get to their destination within ten minutes? Most rides are only 5 minutes in length. From the New York data, Citi Bike does seem to have a good business model with 81% of rides being taken by paid subscribers. Subscribers ride during the work week, to and from work, which seems to follow a nine to five workday. A higher number of customers without subscriptions ride on the weekends, possibly suggesting they are likely riding for recreation or could be tourists in the city. Regardless of gender, the average age of bikers is those in there early thirties, which seems to suggest they are of working age for a business job. A 65% majority of bikers are male. Male customers in their early thirties that have a nine to five job seem the make up a big portion of the target audience.
   
 ### Recommendations
-As seen above in the "Riders by Gender" section, an additional graph was made to determine the target age of customers by gender. It would further be reccomended to calcutate and chart the distances between the start and end points of the ride to get and idea about the distances traveled. 
+As seen above in the "Riders by Gender" section, an additional graph was made to determine the target age of customers by gender. It would further be recommended to calculate and chart the distances between the start and end points of the ride to get an idea about the distances traveled.
